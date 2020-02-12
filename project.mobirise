@@ -1469,7 +1469,7 @@
         }
       ]
     },
-    "download.html": {
+    "no.html": {
       "settings": {
         "meta_descr": "Download the RidMC Client.",
         "title": "Download",
