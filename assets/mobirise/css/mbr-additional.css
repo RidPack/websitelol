@@ -710,9 +710,6 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
-.cid-rQFEkePKbP {
-  background-image: url("../../../assets/images/0.png");
-}
 .cid-rQGdSS7LuM {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -800,4 +797,7 @@ section.lazy-placeholder:after {
 .cid-rQGdV0Y1yz .card-box .mbr-section-btn a {
   margin-top: 1rem;
   margin-bottom: 0;
+}
+.cid-rQFEkePKbP {
+  background-image: url("../../../assets/images/0.png");
 }
