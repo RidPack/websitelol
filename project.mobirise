@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "RidNode Hosting",
-    "currentPage": "index.html",
+    "currentPage": "ridnode.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -57,7 +57,7 @@
     "versionPublish": "4.12.0"
   },
   "pages": {
-    "index.html": {
+    "ridnode.html": {
       "settings": {
         "main": true,
         "title": "Home",
@@ -92,10 +92,10 @@
         }
       ]
     },
-    "page1.html": {
+    "prices.html": {
       "settings": {
-        "meta_descr": "Website Maker Description",
-        "title": "Page 1",
+        "meta_descr": "RidMCNode Prices",
+        "title": "Prices",
         "order": 1
       },
       "components": [
